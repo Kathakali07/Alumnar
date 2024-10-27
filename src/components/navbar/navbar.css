@@ -1,0 +1,70 @@
+/* navbar.css */
+.navbar {
+    background-color: #f8f9fa; 
+    margin: 10px;
+    justify-content: center;
+    padding: 8px;
+}
+
+.nav-link {
+    color: #000; /* Default color for nav links */
+}
+
+.nav-link:hover {
+    color: #007bff; /* Change color on hover */
+}
+
+/* Button Styles */
+./* navbar.css */
+.navbar {
+    background-color: #f8f9fa; /* Adjust background color if needed */
+}
+
+.nav-link {
+    color: #000; /* Default color for nav links */
+}
+
+.nav-link:hover {
+    color: #007bff; /* Change color on hover */
+}
+
+/* Button Styles */
+/* navbar.css */
+.navbar {
+    background-color: #f8f9fa; /* Light background for the navbar */
+}
+
+.nav-link {
+    color: #000; /* Default color for nav links */
+}
+
+.nav-link:hover {
+    color: #007bff; /* Change color on hover */
+}
+
+.navbar-brand {
+    font-size: 2rem; /* Increase font size */
+}
+.navbar-logo {
+    width: 40px;  /* Adjust width as needed */
+    height: auto;
+    margin-right:9px ;
+}
+
+
+.grey-button {
+    background-color: #6c757d; /* Grey background */
+    border-color: #6c757d; /* Grey border */
+    color: white; /* White text color */
+    border-radius: 50px;
+    margin-right: 18px;
+}
+
+.grey-button:hover {
+    background-color: #5a6268; /* Darker grey on hover */
+    border-color: #545b62; /* Darker border on hover */
+}
+
+.btn-primary{
+    border-radius: 50px;
+}

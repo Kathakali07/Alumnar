@@ -1,0 +1,74 @@
+.box{                  
+    justify-content: space-between; 
+    align-items:flex-start;  
+    height: 500px;          
+    width: 1100px;                  
+    padding: 20px;                 
+    background-color: #f9f9f9;      
+    border: 1px solid #ddd;        
+    border-radius: 18px;            
+    margin: 20px auto;       
+}
+
+.Searchbar {
+    margin-left: auto;
+    justify-content: space-between;         
+}
+
+input{
+    background-color: transparent;
+    border:none;
+    height: 100%;
+    width: 20%;
+    font-size: 50rem;
+}
+
+input:focus{
+    outline: none;
+}
+
+.Searchbar button {
+    margin-left: 10px;            
+}
+
+h2{
+    font-size: 1.5rem;
+}
+
+.large-icon {
+    font-size: 45px;
+    margin-right: 9px;
+}
+
+button{
+    padding: 20px;
+    font-size: 30px;
+}
+
+button:hover{
+    color: #007bff;
+}
+
+.college_names {
+    display: flex;
+    padding: 150px; /* Adjust as needed */
+    border: 1px solid #ccc; /* Border color */
+    background-color: white; /* Background color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    width: 1058px; /* Fixed width */
+    justify-content: space-evenly; /* Space between items */
+    flex-wrap: wrap; /* Allow wrapping */
+    overflow-y: auto;
+}
+
+.college {
+    padding: 20px;
+    border: 1px solid #ccc; /* Border color */
+    background-color: white; /* Background color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    flex: 1; /* Allow items to grow and fill space evenly */
+    margin: 10px; /* Space between boxes */
+    text-align: center; /* Center text */
+}

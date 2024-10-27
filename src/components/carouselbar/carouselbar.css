@@ -1,0 +1,20 @@
+.carousel-container {
+    margin: 1% auto; /* Center the carousel with 60% margin */
+    max-height: 400px;
+    max-width: 1100px;
+    align-items: center; /* Limit the width of the container */
+    border-radius: 20px;
+  }
+  
+  .event-image {
+    max-height: 400px;
+    max-width: 1100px;
+    border-radius: 10px; /* Make images transparent */
+  }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); /* Transparent background for text */
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
